@@ -1,5 +1,7 @@
 fastapi==0.115.8
 uvicorn==0.34.0
+pydantic==4.12.2
+typing==3.7.4.3
 python-dotenv==1.0.1
 python-multipart==0.0.20
 scikit-learn==1.5.2
@@ -8,4 +10,3 @@ imbalanced-learn==0.13.0
 matplotlib==3.9.2
 seaborn==0.13.2
 pandas==2.2.3
-
